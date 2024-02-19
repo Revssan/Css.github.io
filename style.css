@@ -1,0 +1,32 @@
+.img{
+    background-image: url(Creative.jpeg);
+    background-position: center;
+    background-attachment: fixed;
+    height: 600px;
+}
+.nav{
+    text-decoration: none;
+    justify-content: center;
+    margin-top: 20px;
+    align-items: center;
+    display: flex;
+}
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0px 4px;
+}
+.link-button{
+    background-color: rgb(228, 227, 227);
+    color: black;
+}
+.link-button:hover{
+    background-color: rgb(228, 19, 159);
+    color: aliceblue;
+}
+.head{
+    height: calc(100% - 100px);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
